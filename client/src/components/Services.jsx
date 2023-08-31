@@ -29,7 +29,7 @@ const Services = () => {
             <br />
             continue to improve
           </h1>
-          <p className="text-white leading-[29px] text-17 capitalize tracking-wide py-[20px] md:w-9/12 w-11/12">
+          <p className="text-white leading-[29px] text-12 capitalize tracking-wide py-[20px] md:w-9/12 w-11/12">
             The best choice for buying and selling your crypto assets, with the
             various super friendly services we offer
           </p>
